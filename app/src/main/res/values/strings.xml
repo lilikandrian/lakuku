@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lakuku</string>
+    <string name="admob_id">ca-app-pub-1163445222452050/8492503271</string>
+
+    <string-array name="category">
+        <item>Smartphone</item>
+        <item>Laptop</item>
+    </string-array>
+</resources>
